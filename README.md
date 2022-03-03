@@ -1,8 +1,13 @@
-*********
+
 
 Note: this is an ongoing draft.
+*********
+If you like to see this project coming into reality, you may consider showing your support.
 
-If you like to see this project coming into reality, you may consider showing your support. 
+Bitcoin wallet: 1CsaNof2QRNwZ3W2jvWFhXj982ojqgLyqi
+
+Tropipay.com: https://tppay.me/l0bgadzc (Note: Tropipay is similar to PayPal, Stripe, etc)
+*********
 
 ### Project Name "Universe Objectified" (yeah, Earth and all the other stuff connected, all-data-known wise)
 
