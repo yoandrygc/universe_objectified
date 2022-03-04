@@ -101,13 +101,27 @@ I would pick one website and use its widget link inside an image tag (or any tag
 
 ### Examples of query (without results):
 ---------------------------------------------------------------------------------------------------------------------
-Earth.Websites.FreelancingProjects where project.budget >= 200 and project.currency == 'USD'; //returns a lot of projects paying 200 USD or more. 
+```java
+Earth.Websites.FreelancingProjects where project.budget >= 200 and project.currency == 'USD'; //returns a lot of projects paying 200 USD or more.
+```
+```java
 Mars.Volume; // returns xxxx km2
+```
+```java
 Moon.SpaceDistanceToEarth; // returns ~300 000 km; 30 Earths away; the spatial distance from the Moon to Earth.
+```
+```java
 Earth.PaymentProcessors.Tropipay.PaysTo where paidTo.main_goal contains 'top-up' and paidTo.Currencies contains 'BTC'; // returns, from services/websites that the payment processor Tropipay is connected to, those that can be used to top up your phone's balance using BTC. Put it in another, in answers "Where can I pay a top up using my Tropipay account's BTC balance?".
+```
+```java
 Earth.PaymentProcessors processor.availables in 'Italy'; //returns the payment processors available in Italy. I do not want to sign up and do a lot of steps to end up knowing that it is not the place I will get what I seek.
+```
+```java
 Earth.Currency.Exchange where a='usd' and b='euro'; //returns the rate between those two fiat currencies.
+```
+```java
 Earth.Websites where url constains 'Exercism' | r.Graph.active_users
+```
 
 ### Examples of query (with results):
 ---------------------------------------------------------------------------------------------------------------------
