@@ -2,9 +2,9 @@
 
 Note: this is work in progress.
 *********
-If you like to see this project coming into reality, you could consider giving your support.
+After reading, if you would like to see this project coming into reality, you could consider giving your support.
 
-Bitcoin wallet: 1CsaNof2QRNwZ3W2jvWFhXj982ojqgLyqi
+Bitcoin wallet: 1FEKj2sn4FpbpUMfggyqFHmF2bji5zRg7u
 
 Tropipay.com: https://tppay.me/l0bgadzc (Note: Tropipay is similar to PayPal, Stripe, etc). You can create an account [here](https://www.tropipay.com/signup/0LQ4	"Create a new account").
 
